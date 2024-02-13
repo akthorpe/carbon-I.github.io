@@ -1,5 +1,5 @@
 ---
-title: "Andrew Thorpe"
+title: "Andrew K. Thorpe"
 started: "2015"
 image: /img/people/wennberg.jpg
 subtitle: "Project Scientist"
